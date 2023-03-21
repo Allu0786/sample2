@@ -1,12 +1,8 @@
 <!DOCTYPE html>
-<style>
-{
-background-color:black;
-}
-
-</style>
 <body>
+
 <p>Create a Html code>
 <h1>Welcome to html>
+<h2>I am connected with vscode</h2>
 </body>
 </html>
